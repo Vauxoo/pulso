@@ -1,0 +1,4 @@
+[submodule "pulso"]
+	path = pulso
+	url = git@git.vauxoo.com:vauxoo/pulso.git
+	branch = 13.0
