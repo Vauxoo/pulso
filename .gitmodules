@@ -6,3 +6,7 @@
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
 	branch = 13.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:Vauxoo/server-ux.git
+	branch = 13.0
