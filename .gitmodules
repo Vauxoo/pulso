@@ -10,3 +10,7 @@
 	path = server-ux
 	url = git@github.com:Vauxoo/server-ux.git
 	branch = 13.0
+[submodule "commission"]
+	path = commission
+	url = git@github.com:OCA/commission.git
+	branch = 13.0
