@@ -14,3 +14,7 @@
 	path = commission
 	url = git@github.com:OCA/commission.git
 	branch = 13.0
+[submodule "l10n-mx-electronic-accounting"]
+	path = l10n-mx-electronic-accounting
+	url = git@git.vauxoo.com:vauxoo/l10n-mx-electronic-accounting.git
+	branch = 13.0
