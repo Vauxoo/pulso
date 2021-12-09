@@ -18,3 +18,8 @@
 	path = l10n-mx-electronic-accounting
 	url = git@git.vauxoo.com:vauxoo/l10n-mx-electronic-accounting.git
 	branch = 13.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 13.0
+
