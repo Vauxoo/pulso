@@ -1,7 +1,7 @@
 [submodule "pulso"]
 	path = pulso
 	url = git@git.vauxoo.com:vauxoo/pulso.git
-	branch = 13.0-task-61269-dev-keylor2906
+	branch = 13.0
 [submodule "addons-vauxoo"]
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
