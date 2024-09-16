@@ -1,24 +1,28 @@
 [submodule "pulso"]
 	path = pulso
 	url = git@git.vauxoo.com:vauxoo/pulso.git
-	branch = 13.0
+	branch = 17.0
 [submodule "addons-vauxoo"]
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
-	branch = 13.0
+	branch = 17.0
 [submodule "server-ux"]
 	path = server-ux
 	url = git@github.com:Vauxoo/server-ux.git
-	branch = 13.0
+	branch = 17.0
 [submodule "commission"]
 	path = commission
 	url = git@github.com:OCA/commission.git
-	branch = 13.0
+	branch = 17.0
+[submodule "l10n-mx-edi-autosent-edi-document"]
+	path = l10n-mx-edi-autosent-edi-document
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-autosent-edi-document.git
+	branch = 17.0
+[submodule "l10n-mx-cash-basis-entries"]
+	path = l10n-mx-cash-basis-entries
+	url = git@git.vauxoo.com:mexico/l10n-mx-cash-basis-entries.git
+	branch = 17.0
 [submodule "l10n-mx-electronic-accounting"]
 	path = l10n-mx-electronic-accounting
 	url = git@git.vauxoo.com:vauxoo/l10n-mx-electronic-accounting.git
-	branch = 13.0
-[submodule "l10n-mx-edi-40"]
-	path = l10n-mx-edi-40
-	url = git@git.vauxoo.com:vauxoo/l10n-mx-edi-40.git
-	branch = 13.0
+	branch = 17.0
