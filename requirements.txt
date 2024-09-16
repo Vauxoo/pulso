@@ -1,2 +1,2 @@
 jsonschema
-python-dateutil==2.7.3
+paramiko
